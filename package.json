@@ -1,0 +1,23 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Objective\r Learning\r In this lab, we will be using the Express Node.js framework to write our first server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haseebm01/Hello-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haseebm01/Hello-Express/issues"
+  },
+  "homepage": "https://github.com/Haseebm01/Hello-Express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
